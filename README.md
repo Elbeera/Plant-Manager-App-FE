@@ -35,4 +35,4 @@ axios
 ## Back-End
 
 The Back-End was built using AWs, Lamda functions, S3 Storage and Dynamo DB and can be found here:
-[Back-End Repository](https://github.com/Elbeera/404-Project-BE)
+[Back-End Repository](https://github.com/Elbeera/Plant-Manager-App-FE)

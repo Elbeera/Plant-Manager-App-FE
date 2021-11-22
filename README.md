@@ -34,5 +34,6 @@ axios
 
 ## Back-End
 
-The Back-End was built using AWs, Lamda functions, S3 Storage and Dynamo DB and can be found here:
+The Back-End was built using AWS, API Gateway, Lambda Functions, Dynamo DB, S3 Storage and Cognito.
+Link for Back-End:
 [Back-End Repository](https://github.com/Elbeera/Plant-Manager-App-BE)

@@ -1,4 +1,4 @@
-# 404-Project-FE
+# Plant-Manager-App-FE
 
 Welcome to Team 404's Front-End repository for our team end of course project.
 We are avid plant enthusiasts and wanted to create an application for mobile which could aid in the plant maintenance,

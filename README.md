@@ -11,8 +11,7 @@ Our back-end api, built using AWS then will match the most likely plant to our d
 
 ## Back-End
 
-The Back-End was built using the following Amazon Web Services: \ 
-API Gateway,\
+The Back-End was built using the following Amazon Web Services:\API Gateway,\
 Lambda Functions,\
 Dynamo DB,\
 S3 Storage and Cognito.\

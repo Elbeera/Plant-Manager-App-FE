@@ -27,7 +27,7 @@ Using the command `expo start` will then run the project.
 
 ### Installs used in the project:
 
-expo
+expo \n
 react-naviagtaion
 material ui
 tab navigator

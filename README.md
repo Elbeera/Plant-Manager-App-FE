@@ -13,12 +13,11 @@ Our back-end api, built using AWS then will match the most likely plant to our d
 
 The Back-End was built using the following Amazon Web Services:\ 
 API Gateway,\
-Lambda Functions,
-Dynamo DB,
-S3 Storage and Cognito.
+Lambda Functions,\
+Dynamo DB,\
+S3 Storage and Cognito.\
 <br />
-Link for Back-End:
-[Back-End Repository](https://github.com/Elbeera/Plant-Manager-App-BE)
+Link for Back-End: [Back-End Repository](https://github.com/Elbeera/Plant-Manager-App-BE)
 
 <br />
 

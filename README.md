@@ -27,19 +27,19 @@ Using the command `expo start` will then run the project.
 
 ### Installs used in the project:
 
-expo\
-react-naviagtaion
-material ui
-tab navigator
-expo image picker
-expo camera
-react-native-camera
-aws-amplify
-aws-amplify-react-native
-@react-native-async-storage/async-storage
-npm install --save @react-native-community/netinfo
-npm i react-native-sensors
-axios
+expo,\
+react-naviagtaion,\
+material ui,\
+tab navigator,\
+expo image picker,\
+expo camera,\
+react-native-camera,\
+aws-amplify,\
+aws-amplify-react-native,\
+@react-native-async-storage/async-storage,\
+npm install --save @react-native-community/netinfo,\
+npm i react-native-sensors,\
+axios.
 
 **Sneak-peek:**
 ![Alt text](./assets/OverView.png)
